@@ -1,6 +1,6 @@
 ### Hey 👋
 
-- 🚀 Andrei Bacin, 18 years old, Brazilian, and one day, a great developer.
+- 🚀 Andrei Bacin, 19 years old, Brazilian, and one day, a great developer.
 - 📚 Studying Computer Science at the Federal Institute from Rio Grande do Sul.
 - 👾 Currently working with HTML, CSS, JavaScript, Python and C++.
 - 🇧🇷 Working as a developer and computer technician for the Brazillian Army.
